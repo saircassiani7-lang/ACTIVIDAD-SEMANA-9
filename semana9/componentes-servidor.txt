@@ -1,0 +1,40 @@
+Explica brevemente qué función cumple cada uno. Cada explicación debe tener 2 o 3 líneas:
+
+Sistema operativo
+Node.js
+Aplicación server.js
+Puerto
+Logs
+
+Respuesta:
+
+Sistema operativo: 
+Un sistema operativo (SO) es un conjunto de programas informáticos
+que gestionan el hardware y las aplicaciones de un ordenador asignando recursos, como la memoria,
+la CPU, los dispositivos de entrada/salida y el almacenamiento de archivos.
+
+Node.js:
+
+Node.js es un entorno de ejecución de JavaScript decódigo abierto y multiplataforma. ¡Es una
+herramienta popular para casi cualquier tipo deproyecto!
+Node.js ejecuta el motor JavaScript V8, el núcleo de Google Chrome, fuera del navegador.
+Esto permite que Node.js tenga un rendimiento muy alto.
+
+Aplicación server.js:
+
+es un marco de JavaScript del servidor, de código abierto, que ejecuta el código JavaScript
+fuera de un navegador. Los desarrolladores utilizan este marco para crear aplicaciones
+basadas en red del lado del servidor de manera escalable, rápida y fiable.
+
+Puerto:
+
+Un puerto es un punto virtual en el que comienzan y terminan las conexiones de red. 
+Los puertos están basados en software y los gestiona el sistema operativo de un ordenador. 
+Cada puerto está asociado a un proceso o servicio específico.
+
+Longs:
+
+Longs, también conocido a veces simplemente como "archivo de registro", suele ser utilizado por 
+software o sistemas operativos para realizar un seguimiento de ciertos eventos que ocurren.
+Los archivos LOG se pueden utilizar para cualquier cosa que el sistema o programa considere 
+apropiado registrar.

@@ -1,0 +1,9 @@
+1. cuando ejecutamos el node server.js lo que pas es que se caga el sevidor en 
+puerto 3000, en donde se able una pequeña ventana en la ´parate inferior con una ventanita de
+color verde, le dmaos clit y nos habre una pertalña
+
+2. El mensaje que se muestra al mometo de correr el servidor es Servidor activo y funcionando.
+
+3.despues de agregar la palabra "estado" al lin del servidor, nos aparece el mensaje 
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}, en donde confirmamos que es sevidor 
+resonde y esta funcionando bien.

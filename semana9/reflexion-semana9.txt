@@ -1,0 +1,9 @@
+¿Por qué es importante que las plataformas tecnológicas 
+que usan las comunidades funcionen de manera estable y segura en un servidor?
+
+Yo pienso que la estabilidad y la continuidad operativa de un servidor son importantes en una 
+plataforma participativa, ya que si queremos participar en estas plataformas comunitarias el 
+sistema operativo tiene que estar estable, por que nadie quiere una plataforma inestables en 
+donde se caiga o se desconecte todo el proceso que se esta realizando y se pierda, por eso va 
+de la mano con la continuidad del sistema operativo.
+
